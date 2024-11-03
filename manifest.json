@@ -1,14 +1,11 @@
-
-
-
 {
   "name": "Core Gym Club",
   "short_name": "Core Gym",
   "start_url": "/app/",
   "display": "standalone",
-  "background_color": "#E0092E",
   "theme_color": "#E0092E",
-  "description": "a local Gym Chain in Haninge",
+  "background_color": "#E0092E",
+  "description": "Core Gym Club är en lokal gymkedja i Haninge med fokus på hälsa och träning.",
   "icons": [
     {
       "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=14c64ab2-fa8b-4189-b1ec-aca68c6e7506",
@@ -46,39 +43,14 @@
       "type": "image/png"
     },
     {
-      "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=956f5e97-f75f-49e2-a6a9-9f81de1efadb",
+      "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=621be002-5028-468f-a02d-9f37c085147d",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "shortcuts": [
-    {
-      "name": "Boka Pass",
-      "short_name": "Boka",
-      "description": "Boka ditt nästa pass",
-      "url": "/app/#boka",
-      "icons": [
-        {
-          "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=ba67b218-23d8-4940-9498-30a89573dc26",
-          "sizes": "192x192",
-          "type": "image/png"
-        }
-      ]
-    },
-    {
-      "name": "Se Din Sida",
-      "short_name": "Min Sida",
-      "description": "Se din profil och din historik.",
-      "url": "/app/#min-sida",
-      "icons": [
-        {
-          "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=ba67b218-23d8-4940-9498-30a89573dc26",
-          "sizes": "192x192",
-          "type": "image/png"
-        }
-      ]
-    }
-  ]
+  "categories": ["health", "fitness"],
+  "orientation": "portrait-primary",
+  "lang": "sv-SE"
 }
 
 
