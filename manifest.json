@@ -1,7 +1,7 @@
 {
   "name": "Core Gym Club",
   "short_name": "Core Gym Club",
-  "start_url": "/app/",
+  "start_url": "coregymclub.se/app/",
   "display": "standalone",
   "theme_color": "#E0092E",
   "background_color": "#E0092E",
