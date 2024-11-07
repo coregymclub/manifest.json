@@ -8,48 +8,48 @@
   "description": "Core Gym Club är en lokal gymkedja i Haninge med fokus på hälsa och träning.",
   "icons": [
     {
-      "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=14c64ab2-fa8b-4189-b1ec-aca68c6e7506",
+      "src": "https://coregymclub.se/api/utils/file/download?key=14c64ab2-fa8b-4189-b1ec-aca68c6e7506",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=528b9564-8bdf-4d20-8c47-48404663370c",
+      "src": "https://coregymclub.se/api/utils/file/download?key=528b9564-8bdf-4d20-8c47-48404663370c",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=d72309f6-40f9-44b9-8afd-3707958b1fa7",
+      "src": "https://coregymclub.se/api/utils/file/download?key=d72309f6-40f9-44b9-8afd-3707958b1fa7",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=0dd7def4-659b-4f6b-bcca-ee4cbcdda9f6",
+      "src": "https://coregymclub.se/api/utils/file/download?key=0dd7def4-659b-4f6b-bcca-ee4cbcdda9f6",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=7ed1ee84-f121-48c4-9737-1456f113cc83",
+      "src": "https://coregymclub.se/api/utils/file/download?key=7ed1ee84-f121-48c4-9737-1456f113cc83",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=ba67b218-23d8-4940-9498-30a89573dc26",
+      "src": "https://coregymclub.se/api/utils/file/download?key=ba67b218-23d8-4940-9498-30a89573dc26",
       "sizes": "192x192",
       "type": "image/png"
     },
      {
-      "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=2575815b-dd4b-46d0-afa0-7b53425ab1b3",
+      "src": "https://coregymclub.se/api/utils/file/download?key=2575815b-dd4b-46d0-afa0-7b53425ab1b3",
       "sizes": "256x256",
       "type": "image/png"
     },
     
     {
-      "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=8cac8bb4-dc58-45c3-baa5-a24cade2c673",
+      "src": "https://coregymclub.se/api/utils/file/download?key=beba99db-52d6-4be6-983d-2abdfd213a74",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "https://coregymclub.zoezi.se/api/utils/file/download?key=40abf5f3-9d3c-45ea-a0b2-96e42032de17",
+      "src": "https://coregymclub.se/api/utils/file/download?key=40abf5f3-9d3c-45ea-a0b2-96e42032de17",
       "sizes": "512x512",
       "type": "image/png",
        "purpose": "any maskable"
